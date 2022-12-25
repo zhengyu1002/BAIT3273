@@ -1,0 +1,6 @@
+customhost = "database-1.crzkqgt8rey8.us-east-1.rds.amazonaws.com"
+customuser = "ec2-user"
+custompass = "zhengyu2000"
+customdb = "database-1"
+custombucket = "soozhengyu-bucket"
+customregion = "us-east-1a"
